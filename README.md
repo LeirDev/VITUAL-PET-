@@ -42,13 +42,3 @@ Este projeto foi desenvolvido no **PROA** como parte do aprendizado de **Program
 - Perdas relacionadas à sujeira ou necessidade extrema de banheiro.
 
 ---
-
-## Interface do Usuário
-Menu com as opções:
-1. Alimentar o bichinho.
-2. Brincar com o bichinho.
-3. Descansar o bichinho.
-4. Verificar status do bichinho.
-5. Sair do jogo.
-
----
