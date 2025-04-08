@@ -95,7 +95,7 @@ class VirtualPet {
 
     fun deuRuim() {
         if (
-            nivelFelicidade == 100 ||
+            nivelFelicidade == 0 ||
             nivelCansaco == 100 ||
             nivelPipi == 100 ||
             nivelSujeira == 100 ||
